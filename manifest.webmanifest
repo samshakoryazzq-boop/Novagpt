@@ -1,0 +1,19 @@
+{
+  "name": "ChessNova 1.0.2",
+  "short_name": "ChessNova",
+  "description": "Play, practice, save games and follow your chess progress with ChessNova.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090812",
+  "theme_color": "#090812",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/nova-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
