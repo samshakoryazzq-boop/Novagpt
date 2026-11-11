@@ -1,0 +1,9 @@
+{
+  "appId": "com.chessnova.app",
+  "appName": "ChessNova",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
