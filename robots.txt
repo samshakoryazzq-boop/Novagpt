@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chessnova-101.pages.dev/sitemap.xml

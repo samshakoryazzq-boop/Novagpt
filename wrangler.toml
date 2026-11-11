@@ -1,0 +1,13 @@
+name = "chessnova-api-v07"
+main = "worker.js"
+compatibility_date = "2026-11-11"
+compatibility_flags = ["enable_ctx_exports"]
+
+[[d1_databases]]
+binding = "CHESSNOVA_DB"
+database_name = "chessnova-v07-db"
+database_id = "ee403e32-cfbf-4147-aae7-5a3a0933e4c5"
+
+[exports.OnlineLobby]
+type = "durable-object"
+storage = "sqlite"
