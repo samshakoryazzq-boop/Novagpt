@@ -1,0 +1,16 @@
+{
+  "name": "chessnova-android",
+  "version": "1.0.2",
+  "private": true,
+  "description": "ChessNova 1.0.2 Android wrapper",
+  "scripts": {
+    "build:android": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}
